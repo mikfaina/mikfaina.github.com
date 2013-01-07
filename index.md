@@ -1,6 +1,6 @@
 ---
-layout: post
-title: Primo Post!
+layout: page
+title: Primo Post
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
