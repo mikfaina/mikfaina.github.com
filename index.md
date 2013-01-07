@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Primo Post!
 tagline: Supporting tagline
 ---
