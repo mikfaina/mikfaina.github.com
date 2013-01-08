@@ -1,6 +1,10 @@
 ---
 layout: page
+<<<<<<< HEAD
 title: Primo Post 
+=======
+title: Primo Post
+>>>>>>> f0d6fe2dcebfbdc693f53087205af320eeda72a1
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
